@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mano_guzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mano_guzman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manuel-guzmán" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel-guzmán" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manuel-guzmán-b87b841bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel-guzmán" height="30" width="40" /></a>
 <a href="https://fb.com/manueldaniloguzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manueldaniloguzman" height="30" width="40" /></a>
 <a href="https://instagram.com/manu_guzmn8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manu_guzmn8" height="30" width="40" /></a>
 </p>
