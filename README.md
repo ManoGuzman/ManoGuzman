@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Danilo Guzmán Rodríguez</h1>
-<h3 align="center">A senior Systems Engineering student with internship as Software Developer Engineer in Test</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🌱 I’m currently learning **Kotlin, Azure Fundamentals, Selenium, C# and Postman**
 
