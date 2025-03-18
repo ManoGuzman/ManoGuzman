@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Manuel Danilo Guzmán Rodríguez</h1>
+<h1 align="center">Hi 👋, I'm Manuel Guzmán</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **Kotlin, Azure Fundamentals, Selenium, C# and Postman**
+- 🌱 Software Engineer with +4 years of experience in various domains such as cloud data storage and data analytics, consulting, sales and tech services. I collaborated in development and testing teams, designing and executing test cases and complex scenarios, as well as delivering support to tools that facilitate the migration to cloud data platforms. Being able to adapt to different scenarios, along with strong communication and teamwork skills, has allowed me to drive the success of projects, optimizing processes and accomplishing goals in an efficient approach.
 
-- 📫 How to reach me **manuguzman8@gmail.com**
+- 📫 How to reach me **manuguzman8@gmail.com**, **LinkedIn Profile:** <a href="https://linkedin.com/in/manuel-guzmán-b87b841bb" target="blank"> Manuel Guzmán </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
