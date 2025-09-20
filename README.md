@@ -1,10 +1,9 @@
-# Hi 👋, I'm Manuel Guzmán Rodríguez
+# Hi 👋, I'm Manuel Danilo Guzmán Rodríguez
 ## Software Engineer
 
-- **Software Engineer** with over 4 years of experience working across cloud data storage, data analytics, consulting, and technical services.  
-- Experienced in both manual and automated testing, designing and executing complex test cases and scenarios to ensure software quality.  
-- Provided support and enhancements to migration tools that facilitate seamless cloud data platform transitions.  
-- Known for adaptability, clear communication, and strong teamwork skills, consistently contributing to process improvements and successful project delivery with an efficient, results-driven approach.
+- Software Engineer with 4+ years of experience in test automation, QA, software development, and DevOps.
+- Skilled in building scalable testing frameworks, optimizing CI/CD pipelines, and ensuring product quality in cloud and data-driven environments.
+- Recognized for accelerating release cycles, reducing production defects, and strengthening Dev–QA collaboration.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manueldaniloguzman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manu_guzmn8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-guzmán-b87b841bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manuguzman8@gmail.com) 
