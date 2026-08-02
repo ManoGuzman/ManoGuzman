@@ -14,9 +14,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=ManoGuzman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ManoGuzman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManoGuzman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![ManoGuzman GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ManoGUzman)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
